@@ -1,0 +1,214 @@
+{margin: 0
+padding:0
+}
+
+
+
+
+html{
+  
+          background-image: url(../game.png);
+          color: white;
+}
+
+header { background-image: #fff;
+height: 100vh;
+background-size: cover;
+background-position: center;
+}
+ul{
+float: right;
+list-style-type: none;
+}
+ul li{ display: inline-block;}
+
+ul li a{text-decoration: none;
+color: #fff;
+padding: 10px 40px;
+border: 2px solid #fff;
+transition: 0.4s ease;}
+
+ul li a:hover{
+
+background-color: #fff;
+color:#000;
+}
+
+.title{
+        
+        position: absolute;
+
+}
+
+.title h1{
+
+           color : white;
+           font-size: 50px;
+}
+
+h3{  
+
+     padding: 30px 30px;
+     border: 2px solid #fff;
+     font-size: 35px;
+}
+
+h4{
+     
+       font-size: 33px;
+}
+
+h5{
+
+     font-size:25px;
+} 
+
+
+
+
+h6{   
+         font-size: 40px;}
+
+
+h7{  
+
+
+        font-size: 30px;}
+
+h8{
+      font-size: 20px;
+} 
+
+h8 strong{
+                     font-size: 25px;
+
+}              
+
+  
+h9{
+
+     font-size: 30px;
+
+}
+
+h10{
+
+            font-size: 20px;
+}
+
+h10 strong{
+                     font-size: 25px;
+}
+
+h11{
+            font-size: 30px;
+}
+
+h12{
+          font-size: 20px;
+}
+
+h12 strong{
+                   font-size: 25px;
+}
+
+h13{
+             font-size: 30px;
+}
+
+h14{
+          font-size: 20px;
+}
+
+h14 strong{
+
+            font-size: 25px;
+}
+
+h15{
+         font-size: 30px;
+}
+
+h16{
+         font-size: 20px;
+}
+
+h16 strong{
+
+              font-size: 25px;
+}
+h17{
+
+        font-size: 30px;
+}
+
+h18{
+
+          font-size: 20px;  
+}
+
+h18 strong{
+
+               font-size: 25px;
+}
+h19{
+         font-size: 30px;
+}
+
+h20{
+         font-size: 20px;
+}
+
+h20 strong{
+
+       font-size: 25px;
+}
+h21{
+        font-size: 30px;
+}
+
+h22{
+         font-size: 20px;           
+}
+
+h22 strong{
+
+          font-size: 25px;
+}
+
+h23{
+        font-size: 30px;
+}
+
+h24{
+        font-size: 20px;
+}
+
+h24 strong{
+
+              font-size: 25px;
+}
+
+h25{
+
+            font-size: 30px;
+}
+
+h26{
+
+          font-size: 20px;
+}
+
+h26 strong{
+
+           font-size: 25px;
+
+}
+
+h26 b{
+
+        font-size: 25px;
+}
+
+
+      
